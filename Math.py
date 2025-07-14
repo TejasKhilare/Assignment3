@@ -6,4 +6,4 @@ try:
     print(f"Logarithm : {math.log(num)}")
     print(f"Sine : {math.sin(num)}")
 except ValueError:
-    print("Invalid input. Please enter a numeric value.")
+    print("Please Enter Valid Number")
